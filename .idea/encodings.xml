@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-cloud" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud-executor" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud-scheduler" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-common/elastic-job-common-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-common/elastic-job-common-restful" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-example/elastic-job-example-lite-spring" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-lite" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-console" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-core" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-lifecycle" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-spring" charset="UTF-8" />
+  </component>
+</project>

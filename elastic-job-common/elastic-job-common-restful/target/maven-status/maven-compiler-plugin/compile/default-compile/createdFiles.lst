@@ -1,0 +1,5 @@
+com/dangdang/ddframe/job/restful/GsonJsonProvider.class
+com/dangdang/ddframe/job/security/WwwAuthFilter.class
+com/dangdang/ddframe/job/restful/RestfulExceptionMapper.class
+com/dangdang/ddframe/job/restful/RestfulException.class
+com/dangdang/ddframe/job/restful/RestfulServer.class

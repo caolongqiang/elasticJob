@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Maven: com.bbae:elastic-job-lite-core:jobkill20170629-SNAPSHOT">
+    <CLASSES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bbae/elastic-job-lite-core/jobkill20170629-SNAPSHOT/elastic-job-lite-core-jobkill20170629-20170710.074937-7.jar!/" />
+    </CLASSES>
+    <JAVADOC>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bbae/elastic-job-lite-core/jobkill20170629-SNAPSHOT/elastic-job-lite-core-jobkill20170629-20170710.074937-7-javadoc.jar!/" />
+    </JAVADOC>
+    <SOURCES>
+      <root url="jar://$MAVEN_REPOSITORY$/com/bbae/elastic-job-lite-core/jobkill20170629-SNAPSHOT/elastic-job-lite-core-jobkill20170629-20170710.074937-7-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

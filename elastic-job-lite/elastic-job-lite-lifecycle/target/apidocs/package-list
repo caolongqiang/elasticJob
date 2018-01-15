@@ -1,0 +1,6 @@
+com.dangdang.ddframe.job.lite.lifecycle.api
+com.dangdang.ddframe.job.lite.lifecycle.domain
+com.dangdang.ddframe.job.lite.lifecycle.internal.operate
+com.dangdang.ddframe.job.lite.lifecycle.internal.reg
+com.dangdang.ddframe.job.lite.lifecycle.internal.settings
+com.dangdang.ddframe.job.lite.lifecycle.internal.statistics

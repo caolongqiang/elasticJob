@@ -1,0 +1,12 @@
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/parser/dataflow/DataflowJobBeanDefinitionParser.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/parser/script/ScriptJobBeanDefinitionParser.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/parser/script/ScriptJobBeanDefinitionParserTag.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/reg/parser/ZookeeperBeanDefinitionParser.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/handler/JobNamespaceHandler.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/parser/common/BaseJobBeanDefinitionParserTag.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/util/AopTargetUtils.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/parser/simple/SimpleJobBeanDefinitionParser.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/reg/handler/RegNamespaceHandler.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/api/SpringJobScheduler.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/parser/dataflow/DataflowJobBeanDefinitionParserTag.java
+/Users/caolongqiang/work/workspace/git/elastic-job/elastic-job-lite/elastic-job-lite-spring/src/main/java/com/dangdang/ddframe/job/lite/spring/job/parser/common/AbstractJobBeanDefinitionParser.java

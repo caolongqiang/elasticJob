@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example.iml" filepath="$PROJECT_DIR$/elastic-job-example.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example-cloud/elastic-job-example-cloud.iml" filepath="$PROJECT_DIR$/elastic-job-example-cloud/elastic-job-example-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example-embed-zk/elastic-job-example-embed-zk.iml" filepath="$PROJECT_DIR$/elastic-job-example-embed-zk/elastic-job-example-embed-zk.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example-jobs/elastic-job-example-jobs.iml" filepath="$PROJECT_DIR$/elastic-job-example-jobs/elastic-job-example-jobs.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example-lite-java/elastic-job-example-lite-java.iml" filepath="$PROJECT_DIR$/elastic-job-example-lite-java/elastic-job-example-lite-java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example-lite-spring/elastic-job-example-lite-spring.iml" filepath="$PROJECT_DIR$/elastic-job-example-lite-spring/elastic-job-example-lite-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-example-lite-springboot/elastic-job-example-lite-springboot.iml" filepath="$PROJECT_DIR$/elastic-job-example-lite-springboot/elastic-job-example-lite-springboot.iml" />
+    </modules>
+  </component>
+</project>

@@ -1,0 +1,9 @@
+com.dangdang.ddframe.job.lite.spring.api
+com.dangdang.ddframe.job.lite.spring.job.handler
+com.dangdang.ddframe.job.lite.spring.job.parser.common
+com.dangdang.ddframe.job.lite.spring.job.parser.dataflow
+com.dangdang.ddframe.job.lite.spring.job.parser.script
+com.dangdang.ddframe.job.lite.spring.job.parser.simple
+com.dangdang.ddframe.job.lite.spring.job.util
+com.dangdang.ddframe.job.lite.spring.reg.handler
+com.dangdang.ddframe.job.lite.spring.reg.parser

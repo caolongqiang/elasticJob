@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/elastic-job.iml" filepath="$PROJECT_DIR$/elastic-job.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud.iml" filepath="$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud-executor/elastic-job-cloud-executor.iml" filepath="$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud-executor/elastic-job-cloud-executor.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud-scheduler/elastic-job-cloud-scheduler.iml" filepath="$PROJECT_DIR$/elastic-job-cloud/elastic-job-cloud-scheduler/elastic-job-cloud-scheduler.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-common/elastic-job-common.iml" filepath="$PROJECT_DIR$/elastic-job-common/elastic-job-common.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-common/elastic-job-common-core/elastic-job-common-core.iml" filepath="$PROJECT_DIR$/elastic-job-common/elastic-job-common-core/elastic-job-common-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-common/elastic-job-common-restful/elastic-job-common-restful.iml" filepath="$PROJECT_DIR$/elastic-job-common/elastic-job-common-restful/elastic-job-common-restful.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite.iml" filepath="$PROJECT_DIR$/elastic-job-lite/elastic-job-lite.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-console/elastic-job-lite-console.iml" filepath="$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-console/elastic-job-lite-console.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-core/elastic-job-lite-core.iml" filepath="$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-core/elastic-job-lite-core.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-lifecycle/elastic-job-lite-lifecycle.iml" filepath="$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-lifecycle/elastic-job-lite-lifecycle.iml" />
+      <module fileurl="file://$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-spring/elastic-job-lite-spring.iml" filepath="$PROJECT_DIR$/elastic-job-lite/elastic-job-lite-spring/elastic-job-lite-spring.iml" />
+    </modules>
+  </component>
+</project>
